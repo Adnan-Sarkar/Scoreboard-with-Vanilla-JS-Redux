@@ -17,7 +17,7 @@ This project is a simple scoreboard application built with Vanilla JS and Redux.
 
 ## Live Preview
 
-Click [here]() to view a live preview of the application.
+Click [here](https://scoreboard-js-redux-by-adnan-sarkar.netlify.app/) to view a live preview of the application.
 
 ## Screenshots
 
